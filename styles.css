@@ -1,0 +1,131 @@
+:root{
+    --White: hsl(0, 0%, 100%);
+    --LightGrey: hsl(217, 12%, 63%);
+    --MediumGrey: hsl(216, 12%, 54%);
+    --DarkBlue: hsl(213, 19%, 18%);
+    --VeryDarkBlue: hsl(216, 12%, 8%);
+    --orange: hsl(25, 97%, 53%);
+    
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 15px;
+    font-family: 'Overpass', sans-serif;
+    height: 100vh;
+    margin:2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--VeryDarkBlue);
+}
+ul li{
+    list-style: none;
+}
+.card{
+    background-color: var(--DarkBlue);
+    padding: 1.75rem;
+    border-radius: 1.25rem;
+    box-shadow: 3px 3px var(--DarkBlue);
+    max-width: 400px;
+}
+.main img{
+    padding: .625rem;
+    border-radius: 50%;
+    background-color: hsla(218, 11%, 29%, 0.137);
+}
+.main h1{
+    color: var(--White);
+    margin: 1rem 0;
+    font-size: 1.5rem;
+}
+.main p{
+    color: var(--LightGrey);
+    margin-bottom: 1.25rem;
+    line-height: 1.8;
+}
+.rating-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.5rem;
+}
+.rating-section button{
+    border: none;
+    color: var(--MediumGrey);
+    padding: 1.2rem;
+    border-radius: 100%;
+    background-color:hsla(218, 11%, 29%, 0.137);
+    font-weight: 700;
+    cursor: pointer;
+}
+.rating-section button:hover{
+    color: var(--White);
+    background-color: var(--orange);
+}
+.rating-section button:focus{
+    color: var(--White);
+    background-color: var(--LightGrey);
+}
+.main .submit{
+    display: block;
+    width: 100%;
+    border-radius: 2.5rem;
+    padding: 0.825rem;
+    background-color: var(--orange);
+    border: none;
+    font-size: 1rem;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: var(--White);
+    letter-spacing: 0.1rem;
+    cursor: pointer;
+}
+.main .submit:hover{
+    color: var(--orange);
+    background-color: var(--White);
+}
+#hidden{
+    display: none;
+}
+.thank-you{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.thank-you img{
+    margin-bottom: 1.25rem;
+}
+.thank-you .result{
+    color: var(--orange);
+    background-color: hsla(218, 11%, 29%, 0.137);
+    border-radius: 2rem;
+    width: 60%;
+    margin: 0 auto 1.25rem;
+    padding: 0.42rem;
+    font-weight: 400;
+}
+.thank-you h2{
+    color: var(--White);
+    margin-bottom: 1.25rem;
+}
+.thank-you p{
+    color: var(--LightGrey);
+    margin-bottom: 1.25rem;
+    line-height: 1.8;
+}
+/* Mobile: 375px
+- Desktop: 1440px */
+.hidden{
+    display: none;
+}
+
+.attribution { font-size: 11px; text-align: center; margin-top: 2rem; }
+.attribution a { color: hsl(228, 45%, 44%); }
