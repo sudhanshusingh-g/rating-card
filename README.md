@@ -27,11 +27,11 @@ Users should be able to:
 - See the "Thank you" card state after submitting a rating
 
 ### Screenshot
-![Static State of Rating Card component](./image.png)
+![Static State of Rating Card component](images/image.png)
 
-![Active State](./image-1.png)
+![Active State](images/image-1.png)
 
-![Active State](./image-2.png)
+![Active State](images/image-2.png)
 
 
 
