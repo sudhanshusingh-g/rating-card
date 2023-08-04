@@ -6,7 +6,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -26,19 +25,12 @@ Users should be able to:
 - Select and submit a number rating
 - See the "Thank you" card state after submitting a rating
 
-### Screenshot
-![Static State of Rating Card component](images/image.png)
-
-![Active State](images/image-1.png)
-
-![Active State](images/image-2.png)
-
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/sudhanshusingh-g/rating-card)
+- Live Site URL: [Add live site URL here](https://rating-card-component.netlify.app/)
 
 ## My process
 
@@ -71,5 +63,5 @@ To see how you can add code snippets, see below:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Sudhanshu Singh](https://www.linkedin.com/in/sudhanshusingh32/)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
