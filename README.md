@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/sudhanshusingh-g/rating-card)
-- Live Site URL: [Add live site URL here](https://rating-card-component.netlify.app/)
+- Solution URL: [Rating Card Component](https://github.com/sudhanshusingh-g/rating-card)
+- Live Site URL: [Rating Card Component](https://rating-card-component.netlify.app/)
 
 ## My process
 
@@ -64,4 +64,4 @@ To see how you can add code snippets, see below:
 ## Author
 
 - Website - [Sudhanshu Singh](https://www.linkedin.com/in/sudhanshusingh32/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [Sudhanshu Singh](https://www.frontendmentor.io/profile/sudhanshusingh-g)
